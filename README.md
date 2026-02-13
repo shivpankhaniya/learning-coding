@@ -1,2 +1,2 @@
 # learning-coding
-This My Personal Git Repo For Learning Coding
+This Is My Personal Git Repo For Learning Coding
